@@ -4,14 +4,15 @@ A simple CLI tool to introduce myself with colorful output, ASCII art, and my so
 ### Features
 - Displays your name in big ASCII art.
 - Describes you as a software engineer.
-- Lists your social media profiles (Portfolio, GitHub, LinkedIn, Instagram) in a colorful format.
+- Lists your social media profiles (`Portfolio`, `GitHub`, `LinkedIn`, `Instagram`) in a colorful format.
 
 ### Installation
 
 1. Download the Latest Release
 Grab the latest binary for your operating system from the Releases page.
-| **OS**       | **Binary Name**                |
-| ------------ | ------------------------------ |
+
+| **OS**           | **Binary Name**            |
+| ---------------- | -------------------------- |
 | Linux            | echome-linux               |
 | MacOS            | echome-mac                 |
 | Windows          | echome.exe                 |
